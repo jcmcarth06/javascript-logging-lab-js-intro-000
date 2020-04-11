@@ -1,3 +1,2 @@
 console.error("HALP!")
-console.log("I would be a logger".)
-console.warn("Look out!")
+console.log("I would be a logger.")
